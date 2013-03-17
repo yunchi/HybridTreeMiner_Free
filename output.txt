@@ -1,0 +1,18 @@
+#Output Statistics for example_free.txt
+#with support 2
+
+hybrid: 
+frequent 1 trees: 10
+frequent 2 trees: 26
+frequent 3 trees: 15
+frequent 4 trees: 21
+frequent 5 trees: 30
+frequent 6 trees: 38
+frequent 7 trees: 41
+frequent 8 trees: 35
+frequent 9 trees: 23
+frequent 10 trees: 10
+frequent 11 trees: 2
+total frequent trees: 251
+time spent for hybrid method: 0
+
